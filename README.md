@@ -18,8 +18,10 @@ Once aquired, you must create your own .env file in the main folder. once there,
 <!-->
 
 [MY_KEY]  
-KEY=' <CSFLOAT API KEY> ' <--These 2 lines are all you need, formatted like so
+KEY= ' <"CSFLOAT API KEY"> ' <--These 2 lines are all you need, formatted like so
 -->
+
+
 ###Executing Program
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
